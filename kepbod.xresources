@@ -1,0 +1,39 @@
+! kepbod
+! Scheme: Xiao-Ou Zhang <kepbod@gmail.com>
+
+#define base00 #227722882222
+#define base01 #ffbb99ffbb11
+#define base02 #aa66ee2222ee
+#define base03 #ffdd997711ff
+#define base04 #6666dd99eeff
+#define base05 #aaee8811ffff
+#define base06 #aa11eeffee44
+#define base07 #ff55ff44ff11
+#define base08 #338833883300
+#define base09 #ddeeaaff88ff
+#define base0A #aacccc226677
+#define base0B #ff44bbff7755
+#define base0C #66ffcc22eeff
+#define base0D #ee11aa33eeee
+#define base0E #1122ccffcc00
+#define base0F #ff99ff88ff55
+
+*.foreground: base0F
+*.background: base00
+*.cursorColor: base0F
+*.color0: base00
+*.color1: base01
+*.color2: base02
+*.color3: base03
+*.color4: base04
+*.color5: base05
+*.color6: base06
+*.color7: base07
+*.color8: base08
+*.color9: base09
+*.color10: base0A
+*.color11: base0B
+*.color12: base0C
+*.color13: base0D
+*.color14: base0E
+*.color15: base0F
